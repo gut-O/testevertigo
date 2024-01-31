@@ -1,15 +1,27 @@
 {
   "users": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
+  {
+    "id": 1,
+    "nome": "Vinicius",
+    "cpf": "09852589938",
+    "telefone": "4591459981"
+  },
+  {
+    "id": 2,
+    "nome": "Ingrid",
+    "cpf": "11268455903",
+    "telefone": "45991291459"
+  },  {
+    "id": 1,
+    "nome": "guto",
+    "cpf": "01981344012",
+    "telefone": "55992292355"
+  },
+  {
+    "id": 2,
+    "nome": "Marcondes",
+    "cpf": "01981344012",
+    "telefone": "81981138190"
+  }
   ],
-  "login": [
-    {
-      "codigo": 1,
-      "username": "some comment",
-      "senha": 1
-    }]
     }
